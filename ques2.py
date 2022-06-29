@@ -34,4 +34,4 @@ for _ in range(N):
         print("Yes")
     else:
         print("No")
-# Piling Up in python - Hacker Rank Solution END   
+#
